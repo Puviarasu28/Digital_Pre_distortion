@@ -1,0 +1,1 @@
+The objective of this project is to implement Digital Pre-distortion(DPD) for different Power Amplifiers using deep learning and analyse the performances of Neural network based DPD models in Linearization.
